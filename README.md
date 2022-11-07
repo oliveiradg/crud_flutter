@@ -18,16 +18,5 @@ Aqui foram colocados em prática alguns conceitos como:
 - Formulário
 - Arquitetura MVP
 
-<h4 align="center">     :sunglasses:  Projeto em construção  :sunglasses:</h4>
+<h4 align="center">     :sunglasses:  Projeto Finalizado  :sunglasses:</h4>
 
-# :hammer: Funcionalidades do projeto
-
-[fUNCIONALIDADES](../../../../Videos/crud-flutter.mp4)
-
-# 📁 Acesso ao projeto
-
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
-
-# 🛠️ Abrir e rodar o projeto
-
-**Apresente as instruções necessárias para abrir e executar o projeto**
